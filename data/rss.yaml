@@ -3,8 +3,8 @@ Template: |
   🎯 直达链接：[点击此处]({{ link }})
   \#{{ type }}  \#{{ series }}
 Anime:
-  - series: Love Live! Superstar!!
-    type: 动漫订阅
-    url: https://mikanani.me/RSS/Bangumi?bangumiId=2509&subgroupid=552
-    regex: .+ [0-9]+ .+1080p.+
-    path: /downloads/番剧/连载中/LoveLive!Superstar!!/
+  - series: Artworks
+    type: arts
+    url: https://sukebei.nyaa.si/?page=rss&u=offkab
+    regex: (+++).+
+    path: /downloads/nyaa/
