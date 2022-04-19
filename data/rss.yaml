@@ -6,6 +6,6 @@ Anime:
   - series: Artworks
     type: arts
     url: https://sukebei.nyaa.si/?page=rss&u=offkab
-    regex: *
+    regex: ([+++].+)
     path: downloads/nyaa
 
