@@ -7,4 +7,4 @@ Anime:
     type: arts
     url: https://sukebei.nyaa.si/?page=rss&u=offkab
     regex: (+++).+
-    path: /downloads/nyaa/
+    path: /downloads/nyaa
